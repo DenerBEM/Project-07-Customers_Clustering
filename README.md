@@ -20,3 +20,4 @@
 The goal of this project is to group the customers in 
 
 the files in the repository with a small description of each, a summary of the results of the analysis, and necessary acknowledgements. Students should not use another student's code to complete the project, but they may use other references on the web including StackOverflow and Kaggle to complete the project.
+ 

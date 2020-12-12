@@ -1,7 +1,7 @@
 # Project-07-Customers_Clustering
 *Clustering customers based on their energy consumption*
 
-### Libraries used:
+### Libraries used::orange_book:
 
 `import pandas as pd`<br>
 `import numpy as np`<br>
@@ -15,4 +15,8 @@
 `import warnings`<br>
 
 
-the repository must have a README.md file that communicates the libraries used, the motivation for the project, the files in the repository with a small description of each, a summary of the results of the analysis, and necessary acknowledgements. Students should not use another student's code to complete the project, but they may use other references on the web including StackOverflow and Kaggle to complete the project.
+### Goal: :dart:
+
+The goal of this project is to group the customers in 
+
+the files in the repository with a small description of each, a summary of the results of the analysis, and necessary acknowledgements. Students should not use another student's code to complete the project, but they may use other references on the web including StackOverflow and Kaggle to complete the project.

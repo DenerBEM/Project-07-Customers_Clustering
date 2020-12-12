@@ -27,5 +27,8 @@ The goal of this project is to group customers with similar characteristics in t
 * The file.txt you can find here http://archive.ics.uci.edu/ml/machine-learning-databases/00235/household_power_consumption.zip
 
 
-### :boy: Author
+### :boy: Author:
+
+My name is Dener, I'm 25 years old, and I've studied Data Science since 2019, and I've putting my knowledge in practice by doing some personal projects and publish them on GitHub.<br>
+I hope you enjoy reading my codes.
  

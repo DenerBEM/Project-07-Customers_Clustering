@@ -1,5 +1,5 @@
 # Project-07-Customers_Clustering
-*Clustering customers based on their energy consumption*
+**Description**: *Clustering customers based on their energy consumption*
 
 ### :orange_book: Libraries used:
 

@@ -1,7 +1,7 @@
 # Project-07-Customers_Clustering
 *Clustering customers based on their energy consumption*
 
-### Libraries used::orange_book:
+### :orange_book: Libraries used:
 
 `import pandas as pd`<br>
 `import numpy as np`<br>
@@ -15,7 +15,7 @@
 `import warnings`<br>
 
 
-### Goal: :dart:
+### :dart: Goal:
 
 The goal of this project is to group the customers in 
 

@@ -21,9 +21,9 @@ The goal of this project is to group customers with similar characteristics in t
 
 ### :open_file_folder: Files:
 
-*LICENSE <br>
-*Projeto09-Agrupando_Clientes_Por_Consumo_de_Energia.ipynb <br>
-*README.md <br>
+*LICENSE
+*Projeto09-Agrupando_Clientes_Por_Consumo_de_Energia.ipynb
+*README.md
 * The file.txt you can find here http://archive.ics.uci.edu/ml/machine-learning-databases/00235/household_power_consumption.zip
 
 the files in the repository with a small description of each, a summary of the results of the analysis, and necessary acknowledgements. Students should not use another student's code to complete the project, but they may use other references on the web including StackOverflow and Kaggle to complete the project.

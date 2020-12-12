@@ -27,5 +27,5 @@ The goal of this project is to group customers with similar characteristics in t
 * The file.txt you can find here http://archive.ics.uci.edu/ml/machine-learning-databases/00235/household_power_consumption.zip
 
 
-### :person_with_blond_hair: Author
+### :boy: Author
  

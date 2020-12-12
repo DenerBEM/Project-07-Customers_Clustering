@@ -29,6 +29,6 @@ The goal of this project is to group customers with similar characteristics in t
 
 ### :boy: Author:
 
-My name is Dener, I'm 25 years old, and I've studied Data Science since 2019, and I've putting my knowledge in practice by doing some personal projects and publish them on GitHub.<br>
+My name is Dener, I'm 25 years old, and I've studied Data Science since 2019, and I've been putting my knowledge in practice by doing some personal projects and publish them on GitHub.<br>
 I hope you enjoy reading my codes.
  
